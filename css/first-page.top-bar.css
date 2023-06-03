@@ -1,0 +1,9 @@
+.top-nav-bar{
+    transition: 0.5s;
+  }
+  
+  .top-nav-bar:hover{
+    -webkit-text-stroke: 2px red;
+  }
+
+  
